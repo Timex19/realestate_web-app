@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Realestate Web App
+This is a simple real estate web application made with Next.js and Rapid API.
+### [Live Site](https://realestate-website.vercel.app/) 
+
+![real-estate2](https://user-images.githubusercontent.com/88297303/159173039-098c40c1-208a-4797-80af-746986f128f9.png)
 
 ## Getting Started
 
